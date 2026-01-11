@@ -1,3 +1,10 @@
+<div align="center">
+  
+<!-- Replace with your banner image URL -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADEMOLA%20ADEYEMI&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Engineer%20|%20Rust%20&%20Solana%20Developer&descAlignY=55&descSize=25)
+
+</div>
+
 # Hi, I'm ADEMOLA! 👋
 
 ### 💻 Full-Stack Engineer | 🦀 Rust & Solana Developer | 🌍 Community Manager
@@ -36,6 +43,7 @@ I'm a developer who loves building at the intersection of **high-performance sys
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -56,13 +64,100 @@ I'm a developer who loves building at the intersection of **high-performance sys
 
 ## 📊 Featured Projects
 
-### 🗂️ [Solana Journal DApp](https://github.com/GOODBADBOY10/crud)
-A decentralized journaling application built with Anchor Framework, featuring:
-- ✅ On-chain state management with PDAs
-- ✅ Optimized storage using `InitSpace`
-- ✅ Secure CRUD operations on Solana blockchain
+### 🤖 [Centron Trading Bot](https://github.com/GOODBADBOY10/centron-bot)
+**Multi-chain cryptocurrency trading bot with Telegram integration**
 
-### 🔗 [More Projects →](https://github.com/GOODBADBOY10?tab=repositories)
+<details>
+<summary>📸 View Screenshots</summary>
+
+<!-- Replace with your actual screenshot URLs -->
+```
+![Bot Menu](https://via.placeholder.com/800x400.png?text=Add+Your+Bot+Menu+Screenshot)
+![Trading Interface](https://via.placeholder.com/800x400.png?text=Add+Your+Trading+Interface+Screenshot)
+```
+
+</details>
+
+**Tech Stack:** Node.js, Telegraf, Prisma, MongoDB, Solana Web3.js
+
+**Key Features:**
+- ✅ Multi-chain support (Solana & SUI blockchain)
+- ✅ 3-tier swap fallback system (PumpPortal Local → Lightning → Jupiter)
+- ✅ Automatic 1.2% fee collection mechanism
+- ✅ Real-time transaction confirmation & balance tracking
+- ✅ Secure wallet import/export with encryption
+- ✅ Token safety checks and metadata fetching
+
+**Architecture Highlights:**
+- Smart fallback routing optimizes for cost (~$0.002 vs $0.075 on Jupiter)
+- Transaction parsing for instant balance updates
+- Multi-source metadata aggregation (DexScreener, Jupiter, PumpFun API)
+
+---
+
+### 📝 [Computer-Based Test (CBT) System](https://github.com/GOODBADBOY10/cbt-system)
+**Full-stack examination management system**
+
+<details>
+<summary>📸 View Screenshots</summary>
+
+<!-- Replace with your actual screenshot URLs -->
+```
+![Admin Dashboard](https://via.placeholder.com/800x400.png?text=Add+Your+Admin+Dashboard+Screenshot)
+![Student Exam View](https://via.placeholder.com/800x400.png?text=Add+Your+Exam+Interface+Screenshot)
+![Results Page](https://via.placeholder.com/800x400.png?text=Add+Your+Results+Screenshot)
+```
+
+</details>
+
+**Tech Stack:** Next.js, React, Tailwind CSS, Node.js, MongoDB
+
+**Key Features:**
+- ✅ Role-based access control (Admin, Teacher, Student)
+- ✅ Real-time exam timer with auto-submission
+- ✅ Question bank management with multiple question types
+- ✅ Automated grading and instant result generation
+- ✅ Exam analytics and performance tracking
+- ✅ Anti-cheating measures (tab switching detection, randomization)
+
+**Highlights:**
+- Responsive design for desktop and tablet
+- Secure authentication and session management
+- Bulk import/export for questions and students
+
+---
+
+### 🗂️ [Solana Journal DApp](https://github.com/GOODBADBOY10/crud)
+**Decentralized journaling application on Solana**
+
+<details>
+<summary>📸 View Demo</summary>
+
+<!-- Replace with your actual screenshot URL -->
+```
+![Journal Interface](https://via.placeholder.com/800x400.png?text=Add+Your+Journal+DApp+Screenshot)
+```
+
+</details>
+
+**Tech Stack:** Anchor Framework, Rust, Solana Web3.js, React
+
+**Key Features:**
+- ✅ On-chain state management with PDAs (Program Derived Addresses)
+- ✅ Optimized storage using `InitSpace` macro
+- ✅ Full CRUD operations (Create, Read, Update, Delete)
+- ✅ User-specific entry isolation
+- ✅ Secure ownership verification
+
+**Smart Contract Highlights:**
+- Space-efficient account initialization
+- Cross-Program Invocations (CPI) ready
+- Comprehensive error handling
+
+---
+
+### 🔗 [View All Projects →](https://github.com/GOODBADBOY10?tab=repositories)
+
 ---
 
 ## 📈 GitHub Stats
@@ -81,6 +176,7 @@ A decentralized journaling application built with Anchor Framework, featuring:
 </div>
 
 ---
+
 ## 📫 Let's Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ademola102)
@@ -100,4 +196,10 @@ A decentralized journaling application built with Anchor Framework, featuring:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GOODBADBOY10&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
 </div>
