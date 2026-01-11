@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Replace with your banner image URL -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADEMOLA%20ADEYEMI&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Engineer%20|%20Rust%20&%20Solana%20Developer&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADEMOLA%20ADEBISI&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Engineer%20|%20Rust%20&%20Solana%20Developer&descAlignY=55&descSize=25)
 
 </div>
 
