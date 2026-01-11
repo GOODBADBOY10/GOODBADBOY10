@@ -73,18 +73,11 @@ A decentralized journaling application built with Anchor Framework, featuring:
 
 </div>
 
-<div align="center">
-
-| 📊 GitHub Stats | 🔥 Top Languages |
-|:---:|:---:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOODBADBOY10&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOODBADBOY10&theme=radical) |
-
-</div>
+<br/>
 
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOODBADBOY10&theme=radical)
-
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GOODBADBOY10&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GOODBADBOY10&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 ---
