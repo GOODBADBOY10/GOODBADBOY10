@@ -62,7 +62,7 @@ I'm a developer who loves building at the intersection of **high-performance sys
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### 🤖 [Centron Trading Bot](https://github.com/GOODBADBOY10/centron-bot)
 **Multi-chain cryptocurrency trading bot with Telegram integration**
@@ -95,7 +95,7 @@ I'm a developer who loves building at the intersection of **high-performance sys
 
 ---
 
-### 📝 [Computer-Based Test (CBT) System](https://github.com/GOODBADBOY10/cbt-system)
+### [Computer-Based Test (CBT) System](https://github.com/GOODBADBOY10/cbt-system)
 **Full-stack examination management system**
 
 <details>
