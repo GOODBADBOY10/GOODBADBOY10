@@ -65,12 +65,43 @@ A decentralized journaling application built with Anchor Framework, featuring:
 ### 🔗 [More Projects →](https://github.com/GOODBADBOY10?tab=repositories)
 
 ---
-
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOODBADBOY10&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GOODBADBOY10&layout=compact&theme=radical)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GOODBADBOY10&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
+</div>
+
+<div align="center">
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=GOODBADBOY10&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+<div align="center">
+
+| 📊 GitHub Stats | 🔥 Top Languages |
+|:---:|:---:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOODBADBOY10&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOODBADBOY10&theme=radical) |
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOODBADBOY10&theme=radical)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GOODBADBOY10&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ---
 
 ## 📫 Let's Connect
