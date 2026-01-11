@@ -62,9 +62,6 @@ A decentralized journaling application built with Anchor Framework, featuring:
 - ✅ Optimized storage using `InitSpace`
 - ✅ Secure CRUD operations on Solana blockchain
 
-### 🎯 [Project Name 2](https://github.com/GOODBADBOY10/project2)
-[Brief description of your second project - highlight the technical challenge you solved]
-
 ### 🔗 [More Projects →](https://github.com/GOODBADBOY10?tab=repositories)
 
 ---
