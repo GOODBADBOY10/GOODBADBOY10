@@ -63,15 +63,9 @@ A decentralized journaling application built with Anchor Framework, featuring:
 - ✅ Secure CRUD operations on Solana blockchain
 
 ### 🔗 [More Projects →](https://github.com/GOODBADBOY10?tab=repositories)
-
 ---
+
 ## 📈 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GOODBADBOY10&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-</div>
 
 <div align="center">
   
@@ -94,16 +88,6 @@ A decentralized journaling application built with Anchor Framework, featuring:
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GOODBADBOY10&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
----
-
 ## 📫 Let's Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ademola102)
