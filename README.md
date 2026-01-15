@@ -9,7 +9,7 @@
 
 ### 💻 Full-Stack Engineer | 🦀 Rust & Solana Developer | 🌍 Community Manager
 
-I'm a developer who loves building at the intersection of **high-performance systems** and **decentralization**. From crafting sleek UIs with Next.js to engineering secure smart contracts with Anchor, I focus on building products that are **fast, secure, and user-centric**.
+I'm a developer who loves building at the intersection of **high-performance systems** and **decentralization**. From crafting sleek UIs with Next.js to engineering secure smart contracts with Anchor, I focus on building products that are **fast, secure, scalable and user-centric**.
 
 ---
 
