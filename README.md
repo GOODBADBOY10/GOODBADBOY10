@@ -1,11 +1,12 @@
 <div align="center">
   
 <!-- Replace with your banner image URL -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADEMOLA%20ADEBISI&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Engineer%20|%20Rust%20&%20Solana%20Developer&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADEMOLA%20TAJUDEEN%20IDRIS&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Engineer%20|%20Rust%20&%20Solana%20Developer&descAlignY=55&descSize=25)
 
 </div>
 
-# Hi, I'm ADEMOLA! 👋
+# Hi, I'm Ademola Tajudeen Idris! 👋
+### Also known as Tajudeen Idris Ademola
 
 ### 💻 Full-Stack Engineer | 🦀 Rust & Solana Developer | 🌍 Community Manager
 
@@ -70,11 +71,8 @@ I'm a developer who loves building at the intersection of **high-performance sys
 <details>
 <summary>📸 View Screenshots</summary>
 
-<!-- Replace with your actual screenshot URLs -->
-```
 ![Bot Menu](https://via.placeholder.com/800x400.png?text=Add+Your+Bot+Menu+Screenshot)
 ![Trading Interface](https://via.placeholder.com/800x400.png?text=Add+Your+Trading+Interface+Screenshot)
-```
 
 </details>
 
@@ -101,12 +99,9 @@ I'm a developer who loves building at the intersection of **high-performance sys
 <details>
 <summary>📸 View Screenshots</summary>
 
-<!-- Replace with your actual screenshot URLs -->
-```
 ![Admin Dashboard](https://via.placeholder.com/800x400.png?text=Add+Your+Admin+Dashboard+Screenshot)
 ![Student Exam View](https://via.placeholder.com/800x400.png?text=Add+Your+Exam+Interface+Screenshot)
 ![Results Page](https://via.placeholder.com/800x400.png?text=Add+Your+Results+Screenshot)
-```
 
 </details>
 
@@ -133,10 +128,7 @@ I'm a developer who loves building at the intersection of **high-performance sys
 <details>
 <summary>📸 View Demo</summary>
 
-<!-- Replace with your actual screenshot URL -->
-```
 ![Journal Interface](https://via.placeholder.com/800x400.png?text=Add+Your+Journal+DApp+Screenshot)
-```
 
 </details>
 
@@ -181,8 +173,8 @@ I'm a developer who loves building at the intersection of **high-performance sys
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ademola102)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idris-ademola-a0863b2b7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selfmanademola@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ademola-repo.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademolaidris2002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ademola.store)
 
 💬 **Community Manager** — Building a tech community of learners and builders 🚀
 
